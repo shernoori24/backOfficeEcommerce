@@ -123,10 +123,18 @@
           { "date": "2025-01-05", "revenue": 1299.95 }
         ],
         "weekly": [
-          { "week": "2025-W01", "revenue": 7229.65 }
+          { "week": "2025-W01", "revenue": 7229.65 },
+          { "week": "2025-W02", "revenue": 6229.65 },
+          { "week": "2025-W03", "revenue": 5229.65 },
+          { "week": "2025-W04", "revenue": 8229.65 }
         ],
         "monthly": [
-          { "month": "2025-01", "revenue": 7229.65 }
+          { "month": "2025-01", "revenue": 17229.65 },
+          { "month": "2025-02", "revenue": 27229.65 },
+          { "month": "2025-03", "revenue": 47229.65 },
+          { "month": "2025-04", "revenue": 17229.65 },
+          { "month": "2025-05", "revenue": 27229.65 },
+          { "month": "2025-06", "revenue": 37229.65 }
         ]
       }
     }
